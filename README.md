@@ -1,5 +1,4 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
-## AIM:
 ### NAME :Dharshini R
 ### REGISTER NO: 212224220023
 ### EX. NO: 3
